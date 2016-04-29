@@ -1,3 +1,6 @@
 <?php
-echo "Hola";  
+$var = "Mundo";
+echo "Hola". $var;
+
+
 ?>
